@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = /
+[remote "origin"]
+	url = git@github.comgit@github.com:QianGuangYu2020/linuxtest.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
